@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarpython001&label=Profile%20views&color=0e75b6&style=flat" alt="umarpython001" /> </p>
 
-- 🔭 I’m currently working on a chrome extension that connects my leetcode to my github [lc-X-gh](https://github.com/Umarpython001/leetcode-github-extension)
+- 🔭 I’m currently working on a [default react-fastapi skeleton stack](https://github.com/Umarpython001/react-fastapi-skeleton) so that I can easily plug and play for any project idea. 
 
 - 💬 Ask me about **Python, Backend development, RESTful APIs, Data structures and Algorithms,**
 
