@@ -26,8 +26,11 @@
 
 
 
-<img src="https://raw.githubusercontent.com/Kingvic300/Kingvic300/output/github-snake-dark.svg">
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarpython001/umarpython001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarpython001/umarpython001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/umarpython001/umarpython001/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!--
 **Umarpython001/umarpython001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
