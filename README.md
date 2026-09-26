@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umarpython001&label=Profile%20views&color=0e75b6&style=flat" alt="umarpython001" /> </p>
 
-- 🔭 I’m currently working on a [default react-fastapi skeleton stack](https://github.com/Umarpython001/react-fastapi-skeleton) so that I can easily plug and play for any project idea. 
+- 🔭 I’m currently working on a [URL shortener](https://github.com/Umarpython001/url_shortener) for me to start learning system design. I'll make it efficient and possible to scale so I'll add things like caching and load balancing, etc.
 
 - 💬 Ask me about **Python, Backend development, RESTful APIs, Data structures and Algorithms,**
 
